@@ -7,10 +7,10 @@ build:
         version: "0.17"
         theme: hugo-tranquilpeak-theme
         flags: --buildDrafts=true
-  deploy:
-    steps:
-      - install-packages:
-          packages: git ssh-client
-      - lukevivier/gh-pages@0.2.1:
-          token: $GIT_TOKEN
-          basedir: public
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        basedir: public
