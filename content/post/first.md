@@ -15,6 +15,7 @@ description = "A post about the amazingness of Gavin Belson"
 Note: This article originally appeared in [CodeRag](http://www.coderag.com/10-facts-you-didnt-know-about-gavin-belson/).
 
 
+
 Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
 
 * He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries. In fact, I’ve recently spearheaded the creation of Hooli’s newest charity: the Hooli Elephant Wildlife Trust.”
