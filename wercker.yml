@@ -1,14 +1,13 @@
 box: debian
 build:
   steps:
+    - install-packages:
+        packages: git
+    - script:
+        name: download theme
+        code: |
+            $(git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git ./themes/hugo-tranquilpeak-theme)
     - arjen/hugo-build:
         version: "0.17"
         theme: hugo-tranquilpeak-theme
         flags: --buildDrafts=true
-deploy:
-  steps:
-    - install-packages:
-        packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
-        token: $GIT_TOKEN
-        basedir: public
