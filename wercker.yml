@@ -9,8 +9,7 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - leipert/git-push:
-            gh_oauth: $GIT_TOKEN
-            repo: rubot99/rubot99.github.io
-            branch: master
-            basedir: public
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: rubot99.github.io/rubot99-hugo-site
+        basedir: public
