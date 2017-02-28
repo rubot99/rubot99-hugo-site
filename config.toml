@@ -13,8 +13,8 @@
 # use grunt task `build` to synchronize assets
 
 baseurl = "https://rubot99.github.io/"
-languageCode = "en-gb"
-defaultContentLanguage = "en-gb"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "rubot"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
