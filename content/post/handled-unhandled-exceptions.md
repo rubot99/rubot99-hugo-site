@@ -1,6 +1,6 @@
 +++
 tags = ["c#","development","code"]
-categories = ["development","c#","code"]
+categories = ["development","code"]
 date = "2012-07-20T00:00:00Z"
 title = "Handled Unhandled Exceptions"
 keywords = ["development","code","c#"]
@@ -8,11 +8,11 @@ keywords = ["development","code","c#"]
 +++
 
 
-‘Handled Unhandled Exception’ sounds like an oxy-moron, but let me explain what I mean. 
+‘Handled Unhandled Exception’ sounds like an oxy-moron, but let me explain what I mean.
 I’m sure most developers have seen the code below at some point in their careers.
 <!--more-->
 
-``` 
+```
 
 try
 {
