@@ -1,7 +1,7 @@
 +++
 tags = ["book-review","development"]
 categories = ["books"]
-date = "2017-08-20:30:00Z"
+date = "2017-08-10T20:30:00Z"
 title = "Review - Refactoring - Improving the design of existing code"
 keywords = ["refactoring", "development", "software", "book"]
 
