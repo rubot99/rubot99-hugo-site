@@ -22,4 +22,3 @@ One preliminary step you need to take before starting any refactoring is to have
 The second step is to decompose things into smaller parts and to refactor. It is difficult to refactor large parts but is more manageable to refactor smaller parts.
 
 Renaming functions and variables are an important step. Good code should communicate its intent without the need of extra documentation. Readable code might initially seem less performant, but in the long run it will be easier to change. 
-
