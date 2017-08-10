@@ -11,7 +11,7 @@ I’m an avid listener of the CodingBlocks.Net podcasts and it’s been one of m
 
 <!--more-->
 
-###Foreword + Preface + Chapter 1
+### Foreword + Preface + Chapter 1
 
 The first section talks about the importance of designing software before you start implementation. Good design is no substitute for immediate implementation gratification. Putting coding first is a sure way of spiralling from engineering to code hacking. Poor design reduces the readability and maintainability of your code. It is said code is read and modified more frequently than it is written. Poorly designed code bases often suffer from copy and paste code rather than reusable modules. This all makes code difficult to maintain and increasing the chances of adding bugs. 
 
