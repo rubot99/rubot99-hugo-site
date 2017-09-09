@@ -13,7 +13,8 @@ keywords = ["discarding", "software development", "agile", "book"]
 
 The book starts with a story of a fictitious company that is a market leader in their field, however in the last couple of years their competitors have been over taking them. The company has a new software project that will help them regain their pole position, but due to development issues they have been unable to deliver the product. In the book, we follow the acting CIO and problems he faces taking up this new role. 
 
-### The first part of the book discusses issues such as 
+### The first part of the book discusses issues
+
 * Lack of communication between development, infrastructure and testing
 * Poor estimates for work
 * Poor software processes
@@ -25,9 +26,10 @@ The book starts with a story of a fictitious company that is a market leader in 
 * All tasks cannot have the highest priority
 * Problem with always being in firefighting mode
 * Different types of work i.e. Business projects, Internal projects, Change request and unplanned
-* Unplanned work is the most destructive type of work, often considered anti-work. 
+* Unplanned work is the most destructive type of work, often considered anti-work
 
-### Second half of the book discusses concepts and ideas 
+### Second half of the book discusses concepts and ideas
+
 * You can't sort the strategic until you sort the tactical
 * Having transparency is good but allowing generals access to every private can have a detrimental effect on the war effort.
 * Having a proper and planned change request process is very important
@@ -40,6 +42,7 @@ The book starts with a story of a fictitious company that is a market leader in 
 * Removing human interventions during deployment ensure that we can consistency reproduce deployments
 
 ### The book concludes with the team implementing
+
 * Planned and approved change request process
 * Implementation of Agile and Kanban
 * Increased communication and transparency between teams
