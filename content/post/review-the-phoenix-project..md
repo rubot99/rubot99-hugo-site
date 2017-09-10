@@ -7,11 +7,11 @@ keywords = ["discarding", "software development", "agile", "book"]
 
 +++
 
-‘The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win’ is a book about common situations you face working on software projects. The book teaches concepts and ideas through story form, it is very similar to books like the ‘One minute manager’ and ‘The richest man in Babylon’. I’ve read both these books and enjoyed how the simple truths and ideas are very cleverly conveyed through the story.
+**‘The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win’** is a book about common situations you face working on software projects. The book teaches concepts and ideas through story form, it is very similar to books like the ‘One minute manager’ and ‘The richest man in Babylon’. I’ve read both these books and enjoyed how the simple truths and ideas are very cleverly conveyed through the story.
 
 <!--more-->
 
-The book starts with a story of a fictitious company that is a market leader in their field, however in the last couple of years their competitors have been over taking them. The company has a new software project that will help them regain their pole position, but due to development issues they have been unable to deliver the product. In the book, we follow the acting CIO and problems he faces taking up this new role. 
+The book starts with a story of a fictitious company that is a market leader in their field, however in the last couple of years their competitors have been over taking them. The company has a new software project that will help them regain their pole position, but due to development issues they have been unable to deliver the product. In the book, we follow the acting CIO and problems he faces taking up this new role.
 
 ### The first part of the book discusses issues
 
@@ -47,5 +47,5 @@ The book starts with a story of a fictitious company that is a market leader in 
 * Implementation of Agile and Kanban
 * Increased communication and transparency between teams
 * Removal of knowledge bottlenecks through knowledge based systems
-* Automated deployments 
+* Automated deployments
 * Move to cloud based systems
