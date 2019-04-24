@@ -4,7 +4,7 @@ build:
     - install-packages:
         packages: git
     - arjen/hugo-build:
-        version: "0.17"
+        version: "0.55.1"
         theme: hugo-tranquilpeak-theme
         flags: --buildDrafts=true
 deploy:
